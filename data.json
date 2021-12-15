@@ -1,0 +1,42 @@
+{
+  "name" : "Ricardo",
+  "armorList" : [
+    {
+      "type" : "helmet",
+      "title" : "lizard helmet",
+      "cost" : 900,
+      "hardness" : 3.7,
+      "weightKg" : 2,
+      "helmetType" : "OPEN"
+    },
+
+    {
+      "type" : "chestplate",
+      "title" : "thief robe",
+      "cost" : 1800,
+      "hardness" : 4.8,
+      "weightKg" : 7.5,
+      "maxAdditionalEquipmentKg" : 12,
+      "heartCrystal" : "Black"
+    },
+
+    {
+      "type" : "leggings",
+      "title" : "iron knight leggings",
+      "cost" : 5500,
+      "hardness" : 8,
+      "weightKg" : 15,
+      "pocketsQuantity" : 4
+    },
+
+    {
+      "type" : "boots",
+      "title" : "iron knight boots",
+      "cost" : 3700,
+      "hardness" : 8,
+      "weightKg" : 8,
+      "isHorseRideable" : true
+    }
+  ],
+  "serviceYears" : 12
+}
